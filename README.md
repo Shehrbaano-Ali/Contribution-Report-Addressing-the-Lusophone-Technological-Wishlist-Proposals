@@ -73,7 +73,7 @@ My primary goals are to use my Python skills to:
 # 5. About the Project
 The **Lusophone Technological Wishlist** is a community driven initiative to bridge technical gaps for Portuguese-speaking Wikimedia contributors. The project aims to solve long standing issues like duplicate references, broken links, and data quality on Wikidata. 
 
-My vision for this internship is to transform these "wishlist items" into stable, scalable tools. By focusing on **Proposal #3** [Reference Guarding](https://phabricator.wikimedia.org/T418285) and **Proposal #8** [Wikiscoring](https://phabricator.wikimedia.org/T418286), I aim to provide the community with automated diagnostics that improve the reliability of the world’s largest open knowledge base.
+My vision for this internship is to transform these "wishlist items" into stable, scalable tools. By focusing on **Proposal #3** [Reference Guarding](https://meta.wikimedia.org/wiki/Lista_de_desejos_tecnol%C3%B3gicos_da_lusofonia/2025/Propostas/Verificar_automaticamente_uma_refer%C3%AAncia_duplicada) and **Proposal #8** [Wikiscoring](https://meta.wikimedia.org/wiki/Lista_de_desejos_tecnol%C3%B3gicos_da_lusofonia/2025/Propostas/Ferramenta_de_pontua%C3%A7%C3%A3o_para_edi%C3%A7%C3%B5es_no_Wikidata), I aim to provide the community with automated diagnostics that improve the reliability of the world’s largest open knowledge base.
 
 ---
 
