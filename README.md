@@ -1,17 +1,10 @@
-# [ CONTRIBUTION REPORT - Shehrbano Ali ]<br><br>Addressing The Lusophone Technological Wishlist Proposals Project
+# [ CONTRIBUTION REPORT - Shehrbano Ali ]<br><br>
+Addressing The Lusophone Technological Wishlist Proposals Project
 
 ---
 ## LINK
 
 ### 🌐 [Click here to view My Report](https://shehrbaano-ali.github.io/Contribution-Report-Addressing-the-Lusophone-Technological-Wishlist-Proposals/)
-
----
-## 📸 Visual Overview
-
-![Visualizing My Report](Screenshot%202026-04-06%20185010.png)
-
-![Visualizing My Report](Screenshot%202026-04-06%20185027.png)
-
 
 ---
 # 1. Profile
