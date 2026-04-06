@@ -1,7 +1,6 @@
 # [ CONTRIBUTION REPORT - Shehrbano Ali ]<br><br>
-Addressing The Lusophone Technological Wishlist Proposals Project
+# Addressing The Lusophone Technological Wishlist Proposals Project
 
----
 ## LINK
 
 ### 🌐 [Click here to view My Report](https://shehrbaano-ali.github.io/Contribution-Report-Addressing-the-Lusophone-Technological-Wishlist-Proposals/)
