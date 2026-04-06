@@ -35,7 +35,7 @@
 
 
 # 3. Mentors
-* **Primary Mentors:** [@Ederporto](https://phabricator.wikimedia.org/p/Ederporto/]) &  [@Arcstur](https://phabricator.wikimedia.org/p/Arcstur/)
+* **Primary Mentors:** [@Arcstur](https://phabricator.wikimedia.org/p/Arcstur/)  &  [@Ederporto](https://phabricator.wikimedia.org/p/Ederporto/]) 
 * **Project:** [T418284: Addressing the lusophone technological wishlist proposals](https://phabricator.wikimedia.org/T418284)
 
 ---
