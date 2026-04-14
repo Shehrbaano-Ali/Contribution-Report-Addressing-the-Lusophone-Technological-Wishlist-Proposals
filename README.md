@@ -80,6 +80,11 @@ I am committed to dedicating 40 hours a week to ensure that the Lusophone commun
 
 ---
 
+# 8. LINK
 
+
+### 🌐 [Click here to view My Report](https://shehrbaano-ali.github.io/Contribution-Report-Addressing-the-Lusophone-Technological-Wishlist-Proposals/)
+
+--- 
 *Applicant, Outreachy 2026 Cohort Project*  
 *Shehrbano Ali*
